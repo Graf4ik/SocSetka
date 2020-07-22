@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Graf4ik/SocSetka/static/css/main.e3100269.chunk.css",
+    "main.js": "/Graf4ik/SocSetka/static/js/main.6c39d88c.chunk.js",
+    "main.js.map": "/Graf4ik/SocSetka/static/js/main.6c39d88c.chunk.js.map",
+    "runtime-main.js": "/Graf4ik/SocSetka/static/js/runtime-main.e55a502c.js",
+    "runtime-main.js.map": "/Graf4ik/SocSetka/static/js/runtime-main.e55a502c.js.map",
+    "static/js/2.31a3d96d.chunk.js": "/Graf4ik/SocSetka/static/js/2.31a3d96d.chunk.js",
+    "static/js/2.31a3d96d.chunk.js.map": "/Graf4ik/SocSetka/static/js/2.31a3d96d.chunk.js.map",
+    "static/css/3.dbeaecea.chunk.css": "/Graf4ik/SocSetka/static/css/3.dbeaecea.chunk.css",
+    "static/js/3.7abb381e.chunk.js": "/Graf4ik/SocSetka/static/js/3.7abb381e.chunk.js",
+    "static/js/3.7abb381e.chunk.js.map": "/Graf4ik/SocSetka/static/js/3.7abb381e.chunk.js.map",
+    "static/css/4.ae6c51da.chunk.css": "/Graf4ik/SocSetka/static/css/4.ae6c51da.chunk.css",
+    "static/js/4.66bfd160.chunk.js": "/Graf4ik/SocSetka/static/js/4.66bfd160.chunk.js",
+    "static/js/4.66bfd160.chunk.js.map": "/Graf4ik/SocSetka/static/js/4.66bfd160.chunk.js.map",
+    "index.html": "/Graf4ik/SocSetka/index.html",
+    "precache-manifest.1f98dd89320a63f0f45d8f7696093295.js": "/Graf4ik/SocSetka/precache-manifest.1f98dd89320a63f0f45d8f7696093295.js",
+    "service-worker.js": "/Graf4ik/SocSetka/service-worker.js",
+    "static/css/3.dbeaecea.chunk.css.map": "/Graf4ik/SocSetka/static/css/3.dbeaecea.chunk.css.map",
+    "static/css/4.ae6c51da.chunk.css.map": "/Graf4ik/SocSetka/static/css/4.ae6c51da.chunk.css.map",
+    "static/css/main.e3100269.chunk.css.map": "/Graf4ik/SocSetka/static/css/main.e3100269.chunk.css.map",
+    "static/js/2.31a3d96d.chunk.js.LICENSE.txt": "/Graf4ik/SocSetka/static/js/2.31a3d96d.chunk.js.LICENSE.txt",
+    "static/media/React.png": "/Graf4ik/SocSetka/static/media/React.580ffd26.png",
+    "static/media/login.png": "/Graf4ik/SocSetka/static/media/login.91153ef6.png",
+    "static/media/online_image2.jpg": "/Graf4ik/SocSetka/static/media/online_image2.e803ebaa.jpg",
+    "static/media/online_image3.jpg": "/Graf4ik/SocSetka/static/media/online_image3.5799ee79.jpg",
+    "static/media/preloader.gif": "/Graf4ik/SocSetka/static/media/preloader.debf0c5a.gif",
+    "static/media/user1.png": "/Graf4ik/SocSetka/static/media/user1.d90721c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e55a502c.js",
+    "static/js/2.31a3d96d.chunk.js",
+    "static/css/main.e3100269.chunk.css",
+    "static/js/main.6c39d88c.chunk.js"
+  ]
+}
