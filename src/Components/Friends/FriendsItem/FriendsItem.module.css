@@ -1,0 +1,7 @@
+.friendsItem a{
+    color: black;
+    font-weight: 700;
+    display: grid;
+    grid-template-columns: 4fr 10fr;
+    text-decoration: none;
+}

@@ -1,0 +1,73 @@
+input:-webkit-autofill {
+    -webkit-text-fill-color: #fae3e3 !important; /* цвет текста */
+    color: #fae3e3 !important;
+}
+.container img{
+    width:120px;
+    height:120px;
+    border: 5px solid #1a394f;
+    border-radius: 50%;
+    margin: 100px 410px;
+   }
+.wrapper {
+	width: 320px;
+	color: #fae3e3;
+}
+.signin {
+	height: 90px;
+	width: 300px;
+    border-radius: 8px;
+    margin: -50px 330px;
+    position: relative;
+}
+.signin .user, .pass {
+	background: rgb(28, 30, 33);
+	box-shadow: inset -100px -100px 0 rgb(28, 30, 33);
+    color: #fceded;
+    border-top-right-radius: 8px;
+	border-top-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-bottom-left-radius: 8px;
+	margin-top: 1px;
+}
+.signin .user, .pass {
+	position: relative;
+	display: block;
+	width: 280px;
+	height: 45px;
+	border: 0;
+	outline: 0;
+	top: -2px;
+	padding: 0 0 0 20px;
+	font-weight: 700;
+}
+.signin .dws_input:focus {
+	color: rgb(255, 255, 255);
+}
+.signin p {
+	color: #c2bebe;
+	padding: 0 20px;
+	font-weight: 700;
+	font-size: 12px;
+	margin: 5px 0 0 70px;
+}
+.signin p > a{
+	color: #3d3b3b;
+	text-decoration: none;
+}
+.signin p > a:hover{
+	border-bottom: 1px solid;
+}
+.dws_submit {
+	margin-left: 100px;
+	color: #f5edf5;
+}
+.dws_submit:hover {
+	color: rgb(224, 237, 241);
+	text-shadow: 0 0 10px rgb(0, 126, 165);
+	cursor: pointer;
+	font-size: 15px;
+}
+
+   
+

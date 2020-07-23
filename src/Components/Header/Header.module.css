@@ -1,0 +1,101 @@
+.header {
+    grid-area: h; 
+    background-color: #231F20;
+    display: flex;
+    border-radius: 7px;
+  }
+  .header a {
+    text-decoration: none;
+  }
+  .header img {
+    width: 90px;
+    height: 60px;
+    margin: 0 0 0 10px;
+  }
+  .icon {
+    position: absolute;
+    left: 12px;
+    top: 3px;
+  }
+  .title {
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 15px 0 0 0px;
+  }
+  .search {
+    position: relative;
+    margin: 15px auto;
+    float: center;
+  }
+  .search_input {
+    outline:none;
+    background: rgba(255,255,255, 0.2);
+    border: 0;
+    box-shadow: none;
+    min-width: 235px;
+    color: #fff;
+    height: 26px;
+    border-radius: 13px;
+    font-size: 13px;
+    padding-left: 30px;
+  }
+
+.loginBlock {
+  float: right;
+  color: white;
+  font-weight: bold;
+  margin: 15px 30px 0 0;
+  letter-spacing: 1px;
+}
+.loginBlock a {
+  color: white;
+}
+.button {
+  text-align: center;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  position: relative;
+  background-color: #16a085;
+  border: none;
+  color: black;
+  padding: 10px 0 22px 0;
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  transition-duration: 0.4s;
+  overflow: hidden;
+  box-shadow: 0 5px 15px #193047;
+  border-radius: 4px;
+}
+
+.button:hover {
+  background: #fff;
+  box-shadow: 0px 2px 10px 5px #1abc9c;
+  color: #000;
+}
+
+.button:after {
+  content: "";
+  background: #1abc9c;
+  display: block;
+  position: absolute;
+  padding-top: 300%;
+  padding-left: 350%;
+  margin-left: -20px !important;
+  margin-top: -120%;
+  opacity: 0;
+  transition: all 0.8s
+}
+
+.button:active:after {
+  padding: 0;
+  margin: 0;
+  opacity: 1;
+  transition: 0s
+}
+
+.button:focus { outline:0; }
