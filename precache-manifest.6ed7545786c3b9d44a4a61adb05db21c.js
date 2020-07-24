@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2c2c8deb981ccad26611baf17349c162",
+    "revision": "f9aca02f8e38ffb2cdd2417d16c715b2",
     "url": "/SocSetka/index.html"
   },
   {
-    "revision": "fd6629ebfbc16c94a0e1",
-    "url": "/SocSetka/static/css/3.dbeaecea.chunk.css"
+    "revision": "91906b548c462b19a77c",
+    "url": "/SocSetka/static/css/3.acfbe750.chunk.css"
   },
   {
-    "revision": "bf473a231abc1c7f41d5",
-    "url": "/SocSetka/static/css/4.ae6c51da.chunk.css"
+    "revision": "7196a4ba41fb7a202b9e",
+    "url": "/SocSetka/static/css/4.821ef9c2.chunk.css"
   },
   {
-    "revision": "062c002516349cb4eca7",
-    "url": "/SocSetka/static/css/main.e3100269.chunk.css"
+    "revision": "2acac4e3e673afde1e47",
+    "url": "/SocSetka/static/css/main.99ec5813.chunk.css"
   },
   {
     "revision": "e44730e4e3d47b739269",
@@ -24,20 +24,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SocSetka/static/js/2.31a3d96d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd6629ebfbc16c94a0e1",
-    "url": "/SocSetka/static/js/3.7abb381e.chunk.js"
+    "revision": "91906b548c462b19a77c",
+    "url": "/SocSetka/static/js/3.170b35b3.chunk.js"
   },
   {
-    "revision": "bf473a231abc1c7f41d5",
-    "url": "/SocSetka/static/js/4.66bfd160.chunk.js"
+    "revision": "7196a4ba41fb7a202b9e",
+    "url": "/SocSetka/static/js/4.d2a5d8ec.chunk.js"
   },
   {
-    "revision": "062c002516349cb4eca7",
-    "url": "/SocSetka/static/js/main.c5557b93.chunk.js"
+    "revision": "2acac4e3e673afde1e47",
+    "url": "/SocSetka/static/js/main.7053c18e.chunk.js"
   },
   {
-    "revision": "3435c5d8555c86ec0e73",
-    "url": "/SocSetka/static/js/runtime-main.18daa3c8.js"
+    "revision": "96588fa68c640c10e33a",
+    "url": "/SocSetka/static/js/runtime-main.05746d30.js"
   },
   {
     "revision": "580ffd26ccaa16481ed87c1829c74943",

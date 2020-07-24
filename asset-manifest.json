@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/SocSetka/static/css/main.e3100269.chunk.css",
-    "main.js": "/SocSetka/static/js/main.c5557b93.chunk.js",
-    "main.js.map": "/SocSetka/static/js/main.c5557b93.chunk.js.map",
-    "runtime-main.js": "/SocSetka/static/js/runtime-main.18daa3c8.js",
-    "runtime-main.js.map": "/SocSetka/static/js/runtime-main.18daa3c8.js.map",
+    "main.css": "/SocSetka/static/css/main.99ec5813.chunk.css",
+    "main.js": "/SocSetka/static/js/main.7053c18e.chunk.js",
+    "main.js.map": "/SocSetka/static/js/main.7053c18e.chunk.js.map",
+    "runtime-main.js": "/SocSetka/static/js/runtime-main.05746d30.js",
+    "runtime-main.js.map": "/SocSetka/static/js/runtime-main.05746d30.js.map",
     "static/js/2.31a3d96d.chunk.js": "/SocSetka/static/js/2.31a3d96d.chunk.js",
     "static/js/2.31a3d96d.chunk.js.map": "/SocSetka/static/js/2.31a3d96d.chunk.js.map",
-    "static/css/3.dbeaecea.chunk.css": "/SocSetka/static/css/3.dbeaecea.chunk.css",
-    "static/js/3.7abb381e.chunk.js": "/SocSetka/static/js/3.7abb381e.chunk.js",
-    "static/js/3.7abb381e.chunk.js.map": "/SocSetka/static/js/3.7abb381e.chunk.js.map",
-    "static/css/4.ae6c51da.chunk.css": "/SocSetka/static/css/4.ae6c51da.chunk.css",
-    "static/js/4.66bfd160.chunk.js": "/SocSetka/static/js/4.66bfd160.chunk.js",
-    "static/js/4.66bfd160.chunk.js.map": "/SocSetka/static/js/4.66bfd160.chunk.js.map",
+    "static/css/3.acfbe750.chunk.css": "/SocSetka/static/css/3.acfbe750.chunk.css",
+    "static/js/3.170b35b3.chunk.js": "/SocSetka/static/js/3.170b35b3.chunk.js",
+    "static/js/3.170b35b3.chunk.js.map": "/SocSetka/static/js/3.170b35b3.chunk.js.map",
+    "static/css/4.821ef9c2.chunk.css": "/SocSetka/static/css/4.821ef9c2.chunk.css",
+    "static/js/4.d2a5d8ec.chunk.js": "/SocSetka/static/js/4.d2a5d8ec.chunk.js",
+    "static/js/4.d2a5d8ec.chunk.js.map": "/SocSetka/static/js/4.d2a5d8ec.chunk.js.map",
     "index.html": "/SocSetka/index.html",
-    "precache-manifest.56c4afb6c31774e2ef887a7f3be0074f.js": "/SocSetka/precache-manifest.56c4afb6c31774e2ef887a7f3be0074f.js",
+    "precache-manifest.6ed7545786c3b9d44a4a61adb05db21c.js": "/SocSetka/precache-manifest.6ed7545786c3b9d44a4a61adb05db21c.js",
     "service-worker.js": "/SocSetka/service-worker.js",
-    "static/css/3.dbeaecea.chunk.css.map": "/SocSetka/static/css/3.dbeaecea.chunk.css.map",
-    "static/css/4.ae6c51da.chunk.css.map": "/SocSetka/static/css/4.ae6c51da.chunk.css.map",
-    "static/css/main.e3100269.chunk.css.map": "/SocSetka/static/css/main.e3100269.chunk.css.map",
+    "static/css/3.acfbe750.chunk.css.map": "/SocSetka/static/css/3.acfbe750.chunk.css.map",
+    "static/css/4.821ef9c2.chunk.css.map": "/SocSetka/static/css/4.821ef9c2.chunk.css.map",
+    "static/css/main.99ec5813.chunk.css.map": "/SocSetka/static/css/main.99ec5813.chunk.css.map",
     "static/js/2.31a3d96d.chunk.js.LICENSE.txt": "/SocSetka/static/js/2.31a3d96d.chunk.js.LICENSE.txt",
     "static/media/React.png": "/SocSetka/static/media/React.580ffd26.png",
     "static/media/login.png": "/SocSetka/static/media/login.91153ef6.png",
@@ -28,9 +28,9 @@
     "static/media/user1.png": "/SocSetka/static/media/user1.d90721c2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.18daa3c8.js",
+    "static/js/runtime-main.05746d30.js",
     "static/js/2.31a3d96d.chunk.js",
-    "static/css/main.e3100269.chunk.css",
-    "static/js/main.c5557b93.chunk.js"
+    "static/css/main.99ec5813.chunk.css",
+    "static/js/main.7053c18e.chunk.js"
   ]
 }
