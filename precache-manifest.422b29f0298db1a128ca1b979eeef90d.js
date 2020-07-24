@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e501745a2d750d7007336566b03bbc38",
+    "revision": "cfe65612ca7816377f353af6b499c3b7",
     "url": "/SocSetka/index.html"
   },
   {
-    "revision": "91906b548c462b19a77c",
-    "url": "/SocSetka/static/css/3.acfbe750.chunk.css"
+    "revision": "d05c85e66bc71d603a5b",
+    "url": "/SocSetka/static/css/3.dbeaecea.chunk.css"
   },
   {
-    "revision": "3e59366a28743efc13e7",
-    "url": "/SocSetka/static/css/4.821ef9c2.chunk.css"
+    "revision": "a83731187af2136d9b9c",
+    "url": "/SocSetka/static/css/4.ae6c51da.chunk.css"
   },
   {
-    "revision": "bb4f1466494e9855ef05",
-    "url": "/SocSetka/static/css/main.99ec5813.chunk.css"
+    "revision": "046f8dc9785393f6d37b",
+    "url": "/SocSetka/static/css/main.e92a15c8.chunk.css"
   },
   {
-    "revision": "63b90fce69b04b7ad2ee",
-    "url": "/SocSetka/static/js/2.8295e826.chunk.js"
+    "revision": "64f2b3409b5f7cf5482a",
+    "url": "/SocSetka/static/js/2.2b1172ca.chunk.js"
   },
   {
     "revision": "eff3b4d7e4bb0087ce53139cd90bc880",
-    "url": "/SocSetka/static/js/2.8295e826.chunk.js.LICENSE.txt"
+    "url": "/SocSetka/static/js/2.2b1172ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "91906b548c462b19a77c",
-    "url": "/SocSetka/static/js/3.170b35b3.chunk.js"
+    "revision": "d05c85e66bc71d603a5b",
+    "url": "/SocSetka/static/js/3.b22af64c.chunk.js"
   },
   {
-    "revision": "3e59366a28743efc13e7",
-    "url": "/SocSetka/static/js/4.235b838c.chunk.js"
+    "revision": "a83731187af2136d9b9c",
+    "url": "/SocSetka/static/js/4.9fb69604.chunk.js"
   },
   {
-    "revision": "bb4f1466494e9855ef05",
-    "url": "/SocSetka/static/js/main.e926cdba.chunk.js"
+    "revision": "046f8dc9785393f6d37b",
+    "url": "/SocSetka/static/js/main.732d6774.chunk.js"
   },
   {
-    "revision": "43adf1163563ef539e9c",
-    "url": "/SocSetka/static/js/runtime-main.c21166f5.js"
+    "revision": "36cce1e7f0e17838a417",
+    "url": "/SocSetka/static/js/runtime-main.4ae2a770.js"
   },
   {
     "revision": "580ffd26ccaa16481ed87c1829c74943",
