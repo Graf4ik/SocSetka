@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SocSetka/static/css/main.99ec5813.chunk.css",
-    "main.js": "/SocSetka/static/js/main.3c8c85cc.chunk.js",
-    "main.js.map": "/SocSetka/static/js/main.3c8c85cc.chunk.js.map",
+    "main.js": "/SocSetka/static/js/main.e926cdba.chunk.js",
+    "main.js.map": "/SocSetka/static/js/main.e926cdba.chunk.js.map",
     "runtime-main.js": "/SocSetka/static/js/runtime-main.c21166f5.js",
     "runtime-main.js.map": "/SocSetka/static/js/runtime-main.c21166f5.js.map",
     "static/js/2.8295e826.chunk.js": "/SocSetka/static/js/2.8295e826.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.235b838c.chunk.js": "/SocSetka/static/js/4.235b838c.chunk.js",
     "static/js/4.235b838c.chunk.js.map": "/SocSetka/static/js/4.235b838c.chunk.js.map",
     "index.html": "/SocSetka/index.html",
-    "precache-manifest.3f3d5f52174f9f40d2e8ab8c451eda3e.js": "/SocSetka/precache-manifest.3f3d5f52174f9f40d2e8ab8c451eda3e.js",
+    "precache-manifest.d3d1e020ea6e8c4a255e9e3094d12045.js": "/SocSetka/precache-manifest.d3d1e020ea6e8c4a255e9e3094d12045.js",
     "service-worker.js": "/SocSetka/service-worker.js",
     "static/css/3.acfbe750.chunk.css.map": "/SocSetka/static/css/3.acfbe750.chunk.css.map",
     "static/css/4.821ef9c2.chunk.css.map": "/SocSetka/static/css/4.821ef9c2.chunk.css.map",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.c21166f5.js",
     "static/js/2.8295e826.chunk.js",
     "static/css/main.99ec5813.chunk.css",
-    "static/js/main.3c8c85cc.chunk.js"
+    "static/js/main.e926cdba.chunk.js"
   ]
 }

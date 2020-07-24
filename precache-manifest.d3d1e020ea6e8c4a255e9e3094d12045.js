@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc208a704f755af092b9a88ae7e7e4e4",
+    "revision": "e501745a2d750d7007336566b03bbc38",
     "url": "/SocSetka/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SocSetka/static/css/4.821ef9c2.chunk.css"
   },
   {
-    "revision": "3f1c5995596eaa3ec9d1",
+    "revision": "bb4f1466494e9855ef05",
     "url": "/SocSetka/static/css/main.99ec5813.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SocSetka/static/js/4.235b838c.chunk.js"
   },
   {
-    "revision": "3f1c5995596eaa3ec9d1",
-    "url": "/SocSetka/static/js/main.3c8c85cc.chunk.js"
+    "revision": "bb4f1466494e9855ef05",
+    "url": "/SocSetka/static/js/main.e926cdba.chunk.js"
   },
   {
     "revision": "43adf1163563ef539e9c",
